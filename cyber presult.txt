@@ -1,0 +1,8 @@
+Enter the city name: patna
+-------------------------------------------------------------
+Weather Stats for - PATNA  || 23 Jun 2021 | 04:30:04 AM
+-------------------------------------------------------------
+Current temperature is: 27.96 deg C
+Current weather desc  : haze
+Current Humidity      : 78 %
+Current wind speed    : 3.09 kmph
